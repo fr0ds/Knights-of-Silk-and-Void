@@ -5,7 +5,7 @@
 [![Format](https://img.shields.io/badge/Format-Commander%20%2F%20EDH-orange)]()
 [![Moxfield](https://img.shields.io/badge/View%20on-Moxfield-purple)](https://moxfield.com/decks/YgZVM9T6m024UwF774-wlQ)
 
-![Sidar Jabari of Zhalfir](Deck/Sidar%20Jabari%20of%20Zhalfir%20(Hornet).png)
+![Sidar Jabari of Zhalfir](banner.png)
 
 ## 📋 Deck List
 
