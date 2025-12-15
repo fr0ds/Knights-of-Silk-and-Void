@@ -8,105 +8,105 @@
 ## 📋 Deck List
 
 ### Commander
-1 Sidar Jabari of Zhalfir
+1 [Sidar Jabari of Zhalfir](Deck/Sidar%20Jabari%20of%20Zhalfir%20(Hornet).png)
 
 ### Battles
-1 Invasion of New Capenna // Holy Frazzle-Cannon
-1 Invasion of New Phyrexia // Teferi Akosa of Zhalfir
+1 [Invasion of New Capenna // Holy Frazzle-Cannon](Deck/Battles/3_1_Invasion%20of%20New%20Capenna%20(Red%20Memory).png)
+1 [Invasion of New Phyrexia // Teferi Akosa of Zhalfir](Deck/Battles/4_1_Invasion%20of%20New%20Phyrexia%20(Fractured%20Seal%20of%20the%20Radiance).png)
 
 ### Creatures
-1 Battle Angels of Tyr
-1 Bloodthirsty Conqueror
-1 Breathless Knight
-1 Cavalier of Dawn
-1 Cecil, Dark Knight // Cecil, Redeemed Paladin
-1 Corpse Knight
-1 Dauntless Bodyguard
-1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
-1 Elenda and Azor
-1 Exsanguinator Cavalry
-1 Forsworn Paladin
-1 Guardian of Faith
-1 Haakon, Stromgald Scourge
-1 Haytham Kenway
-1 Herald of Hoofbeats
-1 Kinsbaile Cavalier
-1 Knight Exemplar
-1 Knight of Dusk's Shadow
-1 Knight of the White Orchid
-1 Locthwain Lancer
-1 Marshal of Zhalfir
-1 Moonshaker Cavalry
-1 Murderous Rider // Swift End
-1 Paladin Danse, Steel Maverick
-1 Smitten Swordmaster // Curry Favor
-1 Summon: Knights of Round
-1 Summon: Primal Odin
-1 Suppressor Skyguard
-1 Syr Vondam, Sunstar Exemplar
-1 Unsettled Mariner
-1 Valiant Knight
-1 Vodalian Wave-Knight
-1 Wintermoor Commander
+1 [Battle Angels of Tyr](Deck/Creatures/Battle%20Angels%20of%20Tyr%20(Flea%20Caravan).png)
+1 [Bloodthirsty Conqueror](Deck/Creatures/Bloodthirsty%20Conqueror%20(Troupe%20Master%20Grimm).png)
+1 [Breathless Knight](Deck/Creatures/Breathless%20Knight%20(Nosk).png)
+1 [Cavalier of Dawn](Deck/Creatures/Cavalier%20of%20Dawn%20(Green%20Prince).png)
+1 [Cecil, Dark Knight // Cecil, Redeemed Paladin](Deck/Creatures/1_1_Cecil,%20Dark%20Knight%20(Lost%20Lace).png)
+1 [Corpse Knight](Deck/Creatures/Corpse%20Knight%20(Godseeker).png)
+1 [Dauntless Bodyguard](Deck/Creatures/Dauntless%20Bodyguard%20(Cloth).png)
+1 [Dion, Bahamut's Dominant // Bahamut, Warden of Light](Deck/Creatures/2_1_Dion,%20Bahamut_s%20Dominant%20(Trobbio).png)
+1 [Elenda and Azor](Deck/Creatures/Elenda%20and%20Azor%20(Signis%20and%20Gron).png)
+1 [Exsanguinator Cavalry](Deck/Creatures/Exsanguinator%20Cavalry%20(The%20Hollow%20Knight).png)
+1 [Forsworn Paladin](Deck/Creatures/Forsworn%20Paladin%20(Grindle).png)
+1 [Guardian of Faith](Deck/Creatures/Guardian%20of%20Faith%20(Sherma).png)
+1 [Haakon, Stromgald Scourge](Deck/Creatures/Haakon,%20Stromgald%20Scourge%20(The%20Knight).png)
+1 [Haytham Kenway](Deck/Creatures/Haytham%20Kenway%20(The%20Collector).png)
+1 [Herald of Hoofbeats](Deck/Creatures/Herald%20of%20Hoofbeats%20(The%20Last%20Stag).png)
+1 [Kinsbaile Cavalier](Deck/Creatures/Kinsbaile%20Cavalier%20(Garmond%20&%20Zaza).png)
+1 [Knight Exemplar](Deck/Creatures/Knight%20Exemplar%20(Quirrel).png)
+1 [Knight of Dusk's Shadow](Deck/Creatures/Knight%20of%20Dusk_s%20Shadow%20(Phantom).png)
+1 [Knight of the White Orchid](Deck/Creatures/Knight%20of%20the%20White%20Orchid%20(Shakra).png)
+1 [Locthwain Lancer](Deck/Creatures/Locthwain%20Lancer%20(Last%20Judge).png)
+1 [Marshal of Zhalfir](Deck/Creatures/Marshal%20of%20Zhalfir%20(Widow).png)
+1 [Moonshaker Cavalry](Deck/Creatures/Moonshaker%20Cavalry%20(Soul%20Master).png)
+1 [Murderous Rider // Swift End](Deck/Creatures/Muderous%20Rider%20(Zote).png)
+1 [Paladin Danse, Steel Maverick](Deck/Creatures/Paladin%20Danse,%20Steel%20Maverick%20(Second%20Sentinel).png)
+1 [Smitten Swordmaster // Curry Favor](Deck/Creatures/Smitten%20Swordmaster%20(Zote).png)
+1 [Summon: Knights of Round](Deck/Creatures/Summon%20Knights%20of%20Round%20(Pale%20King).png)
+1 [Summon: Primal Odin](Deck/Creatures/Summon%20Primal%20Odin%20(Grand%20Mother%20Silk).png)
+1 [Suppressor Skyguard](Deck/Creatures/Suppressor%20Skyguard%20(Nyleth%20and%20Seth).png)
+1 [Syr Vondam, Sunstar Exemplar](Deck/Creatures/Syr%20Vondam,%20Sunstar%20Exemplar%20(Fourth%20Chorus).png)
+1 [Unsettled Mariner](Deck/Creatures/Unsettled%20Mariner%20(Crust%20King%20Khann).png)
+1 [Valiant Knight](Deck/Creatures/Valiant%20Knight%20(First%20Sinner).png)
+1 [Vodalian Wave-Knight](Deck/Creatures/Vodalian%20Wave-Knight%20(Bell%20Beast).png)
+1 [Wintermoor Commander](Deck/Creatures/Wintermoor%20Commander%20(Skarrsinger%20Karmelita).png)
 
 ### Sorceries
-1 Farewell
-1 Patriarch's Bidding
-1 Raise the Palisade
+1 [Farewell](Deck/Sorceries/Farewell.png)
+1 [Patriarch's Bidding](Deck/Sorceries/Patriarch_s%20Bidding%20(Sibling_s%20Salvation).png)
+1 [Raise the Palisade](Deck/Sorceries/Raise%20the%20Palisade%20(Silken%20Curse).png)
 
 ### Instants
-1 Akroma's Will
-1 And They Shall Know No Fear
-1 Anguished Unmaking
-1 Clever Concealment
-1 Dawn's Truce
-1 Entomb
-1 Flawless Maneuver
-1 Grand Crescendo
-1 Into the Flood Maw
-1 Path to Exile
-1 Swords to Plowshares
-1 Void Rend
+1 [Akroma's Will](Deck/Instants/Akroma_s%20Will%20(Binding%20Power).png)
+1 [And They Shall Know No Fear](Deck/Instants/And%20They%20Shall%20Know%20No%20Fear%20(Unite%20the%20Abyss).png)
+1 [Anguished Unmaking](Deck/Instants/Anguished%20Unmaking.png)
+1 [Clever Concealment](Deck/Instants/Clever%20Concealment%20(Escape%20the%20Slab).png)
+1 [Dawn's Truce](Deck/Instants/Dawn_s%20Truce%20(Hornet_s%20Lull).png)
+1 [Entomb](Deck/Instants/Entomb.png)
+1 [Flawless Maneuver](Deck/Instants/Flawless%20Maneuver%20(The%20Weak%20Must%20Serve).png)
+1 [Grand Crescendo](Deck/Instants/Grand%20Crescendo.png)
+1 [Into the Flood Maw](Deck/Instants/Into%20the%20Floodmaw.png)
+1 [Path to Exile](Deck/Instants/Path%20to%20Exile%20(Preservation).png)
+1 [Swords to Plowshares](Deck/Instants/Swords%20to%20Plowshares%20(At%20Peace).png)
+1 [Void Rend](Deck/Instants/Void%20Rend.png)
 
 ### Artifacts
-1 Arcane Signet
-1 Fellwar Stone
-1 Herald's Horn
-1 Sol Ring
-1 Talisman of Dominance
-1 Talisman of Hierarchy
-1 Talisman of Progress
-1 The Soul Stone
+1 [Arcane Signet](Deck/Artifacts/Arcane%20Signet%20(Hunter_s%20Cloak).png)
+1 [Fellwar Stone](Deck/Artifacts/Fellwar%20Stone%20(Sylphsong)%202.png)
+1 [Herald's Horn](Deck/Artifacts/Herald_s%20Horn%20(Needolin).png)
+1 [Sol Ring](Deck/Artifacts/Sol%20Ring.png)
+1 [Talisman of Dominance](Deck/Artifacts/Talisman%20of%20Dominance%20(Herrah).png)
+1 [Talisman of Hierarchy](Deck/Artifacts/Talisman%20of%20Hierarchy%20(Lurien).png)
+1 [Talisman of Progress](Deck/Artifacts/Talisman%20of%20Progress%20(Monomon).png)
+1 [The Soul Stone](Deck/Artifacts/The%20Soul%20Stone%20(Void%20Heart).png)
 
 ### Enchantments
-1 Chivalric Alliance
-1 Kindred Discovery
-1 Knights' Charge
-1 Teferi's Ageless Insight
-1 True Conviction
-1 Virtue of Loyalty // Ardenvale Fealty
+1 [Chivalric Alliance](Deck/Enchantments/Chivalric%20Alliance.png)
+1 [Kindred Discovery](Deck/Enchantments/Kindred%20Discovery.png)
+1 [Knights' Charge](Deck/Enchantments/Knights_%20Charge%20(Dream%20Nail).png)
+1 [Teferi's Ageless Insight](Deck/Enchantments/Teferi_s%20Ageless%20Insight%20(Echoes%20of%20the%20Twin%20Realms).png)
+1 [True Conviction](Deck/Enchantments/True%20Conviction%20(Lifeblood).png)
+1 [Virtue of Loyalty // Ardenvale Fealty](Deck/Enchantments/Virtue%20of%20Loyalty.png)
 
 ### Lands
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Command Tower
-1 Drowned Catacomb
-1 Flooded Strand
-1 Glacial Fortress
-1 Godless Shrine
-1 Hallowed Fountain
-3 Island
-1 Isolated Chapel
-1 Mana Confluence
-1 Marsh Flats
-1 Minas Tirith
-1 Morphic Pool
-9 Plains
-1 Polluted Delta
-1 Raffine's Tower
-1 Rogue's Passage
-1 Sea of Clouds
-3 Swamp
-1 Vault of Champions
-1 Watery Grave
+1 [Ancient Tomb](Deck/Lands/Ancient%20Tomb%20(Kingdom_s%20Edge).png)
+1 [Bojuka Bog](Deck/Lands/Bojuka%20Bog%20(Deep%20Docks).png)
+1 [Cavern of Souls](Deck/Lands/Cavern%20of%20Souls%20(Blue%20Lake).png)
+1 [Command Tower](Deck/Lands/Command%20Tower%20(Bellhome).png)
+1 [Drowned Catacomb](Deck/Lands/Drowned%20Catacomb%20(Greenpath).png)
+1 [Flooded Strand](Deck/Lands/Flooded%20Strand%20(The%20Hive).png)
+1 [Glacial Fortress](Deck/Lands/Glacial%20Fortress%20(Mount%20Fay).png)
+1 [Godless Shrine](Deck/Lands/Godless%20Shrine%20(Deepnest).png)
+1 [Hallowed Fountain](Deck/Lands/Hallowed%20Fountain%20(Lake%20of%20Unn).png)
+3 [Island](Deck/Lands/Island%201.png)
+1 [Isolated Chapel](Deck/Lands/Isolated%20Chapel%20(The%20Cradle).png)
+1 [Mana Confluence](Deck/Lands/Mana%20Confluence%20(Moss%20Grotto).png)
+1 [Marsh Flats](Deck/Lands/Marsh%20Flats%20(Greymoor)%201.png)
+1 [Minas Tirith](Deck/Lands/Minas%20Tirith%20(Queen_s%20Garden)%201.png)
+1 [Morphic Pool](Deck/Lands/Morphic%20Pool%20(Verdania).png)
+9 [Plains](Deck/Lands/Plains%201.png)
+1 [Polluted Delta](Deck/Lands/Polluted%20Delta%20(Fungal%20Wastes).png)
+1 [Raffine's Tower](Deck/Lands/Raffine_s%20Tower%20(Citadel).png)
+1 [Rogue's Passage](Deck/Lands/Rogue_s%20Passage%20(Colosseum%20of%20Fools).png)
+1 [Sea of Clouds](Deck/Lands/Sea%20of%20Clouds%20(Coral%20Tower).png)
+3 [Swamp](Deck/Lands/Swamp%201.png)
+1 [Vault of Champions](Deck/Lands/Vault%20of%20Champions%20(Spirits%20Glade).png)
+1 [Watery Grave](Deck/Lands/Watery%20Grave%20(Trail_s%20End).png)
